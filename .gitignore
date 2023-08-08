@@ -1,13 +1,13 @@
 # .gitignore file
 
-web/sites/default/files
+sites/default/files
 
-web/sites/default/settings.php
+sites/default/settings.php
 
-web/modules/contrib
+modules/contrib
 
-web/themes/contrib
+themes/contrib
 
-web/profiles/contrib
+profiles/contrib
 
 vendor
